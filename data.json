@@ -3,5 +3,57 @@
     "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
 
 
+  },
+  "education":[
+    {
+      "degree":"B-Tech(CSE)",
+      "institute":"SIETK",
+      "data":["2015-19","76%"]
+    },
+
+      {
+        "degree":"intermediate (M.P.C.,)",
+        "institute":"Sai Jothi Jr College",
+        "data":["2013-15","86%"]
+      },
+
+        {
+          "degree":"ssc",
+          "institute":"SSVM School",
+          "data":["2012-13","95%"]
+        }
+
+  ],
+  "skills":[
+    {
+      "title":"Programming languages",
+      "set":["Java","C","Python","C++"]
+    },
+    {
+      "title":"Web technologies",
+      "set":["JSON","JS","CSS","PHP"]
+    },
+    {
+      "title":"Data Bases",
+      "set":["SQL","MySql","Oracle","NoSql"]
+    },
+    {
+      "title":"Operating System",
+      "set":["Windows","DOS","IOS","Linux"]
     }
+
+
+  ],
+  "achievements":[
+    {
+      "achievedData":"Got First prize in ppt."
+    },
+    {
+      "achievedData":"Got First prize in Technical quiz."
+    },
+    {
+      "achievedData":"Got First prize in Food war."
+    }
+
+  ]
 }
